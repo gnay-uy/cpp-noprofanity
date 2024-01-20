@@ -13,3 +13,7 @@ If you want to modify the list of banned words, open up `main.cpp` and add words
 
 ## Disclaimer
 I claim no responsibility for any damaged caused by my program, if anything happens consider it a lesson learnt to use less profanities :)
+
+
+
+Made with **malice** @ Hack and Roll 2024 <//3
